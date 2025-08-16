@@ -24,20 +24,6 @@ This repository contains a **Sales Analysis Dashboard** built using **Microsoft 
   - Top 10 Products by sales  
 
 ---
-
-## 📂 Files  
-
-- **`First try session 6.xlsx`** → The interactive Excel dashboard file.  
-- **`Screenshot 2025-08-17 001749.png`** → Preview of the dashboard.  
-
----
-
-## 📸 Dashboard Preview  
-
-![Dashboard Screenshot](Screenshot%202025-08-17%20001749.png)  
-
----
-
 ## 🛠 Tools & Skills Used  
 
 - Microsoft Excel  
@@ -64,9 +50,3 @@ This repository contains a **Sales Analysis Dashboard** built using **Microsoft 
 3. Use slicers to filter data by **Quarter, Year, Category, and Segment**.  
 4. Explore the dashboard for interactive analysis.  
 
----
-
-## 👤 Author  
-
-Created by **Philopateer Maher**  
-📍 Business Information Systems Student | Aspiring Data Analyst  
